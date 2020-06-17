@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/yuroc/workspace/protocol/tools/boofuzz/boofuzz'
+let g:netrw_dirhist_2='/home/yuroc/workspace/protocol/tools/netafl/testcases/mine/toy'
+let g:netrw_dirhist_3='/home/yuroc/Dropbox/my/coding/sys/fork'
+let g:netrw_dirhist_4='/home/yuroc/workspace/protocol/tools/myafl/.git'
+let g:netrw_dirhist_5='/home/yuroc/workspace/yuroc5390.github.io/_sass'
+let g:netrw_dirhist_6='/home/yuroc/workspace/yuroc5390.github.io/_data'
+let g:netrw_dirhist_7='/home/yuroc/workspace/yuroc0598.github.io/_includes'

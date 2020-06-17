@@ -1,0 +1,22 @@
+set nocompatible
+set showmode
+set showcmd
+set title
+set mouse=a
+set backspace=2
+set showmatch
+syntax on
+set clipboard=unnamedplus
+set modelines=0
+set background=dark
+set hlsearch
+set nu
+set cindent
+set tabstop=4
+set shiftwidth=4
+set t_Co=256
+colorscheme kuroi
+set cursorline
+hi CursorLine   cterm=NONE ctermbg=lightgray ctermfg=darkblue guibg=lightgray guifg=darkblue
+hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
+nnoremap <Leader>c :set cursorline! cursorcolumn!<CR>et expandtab
